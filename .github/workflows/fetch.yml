@@ -25,6 +25,7 @@ jobs:
           python-version: "3.11"
       - run: pip install yfinance pandas
       - run: python fetch_data.py
+      - run: python analyze.py data > data/analysis.txt || echo "analyze lỗi" > data/analysis.txt
       - name: Commit data
         run: |
           git config user.name "data-bot"
