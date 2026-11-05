@@ -135,8 +135,16 @@ def report(name, meta):
     for t, k, lv in ev4[-4:]:
         lines.append(f"  H4 {k} qua {f(lv)} lúc {t.tz_convert(VN):%d/%m %H:%M}")
     if hs4 and ls4:
-        sh, sl = hs4[-1][2], ls4[-1][2]
-        rng_hi, rng_lo = max(sh, sl), min(sh, sl)
+        # Sóng hiện tại: từ swing đối diện gần nhất tới cực trị kể từ đó
+        if tr4 == 1:
+            p = ls4[-1][0]
+            rng_lo, rng_hi = ls4[-1][2], float(h4["High"].iloc[p:].max())
+        elif tr4 == -1:
+            p = hs4[-1][0]
+            rng_hi, rng_lo = hs4[-1][2], float(h4["Low"].iloc[p:].min())
+        else:
+            rng_hi, rng_lo = hs4[-1][2], ls4[-1][2]
+        sh, sl = rng_hi, rng_lo
         pd_pct = (price - rng_lo) / (rng_hi - rng_lo) * 100 if rng_hi > rng_lo else float("nan")
         lines.append(f"  Swing H4 gần nhất: đỉnh {f(sh)} | đáy {f(sl)} | EQ {f((rng_hi + rng_lo) / 2)} | giá ở {pd_pct:.0f}% (>50 premium, <50 discount)")
     lines.append(f"H1 xu hướng: {'TĂNG' if tr1 == 1 else 'GIẢM' if tr1 == -1 else 'chưa rõ'}")
