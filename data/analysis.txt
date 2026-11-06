@@ -1,32 +1,32 @@
-Dữ liệu lấy lúc (UTC): 2026-11-06T14:09:44.040345+00:00 | lỗi: []
+Dữ liệu lấy lúc (UTC): 2026-11-06T17:50:12.640623+00:00 | lỗi: []
 ===== XAUUSD =====
-Nến cuối: 06/11 20:45 (giờ VN) | Giá: 4,037.80 (đã trừ offset GC-spot 16.5)
-ATR14: H4=39.65 H1=19.77 M15=9.74
+Nến cuối: 07/11 00:30 (giờ VN) | Giá: 4,057.80 (đã trừ offset GC-spot 8.8)
+ATR14: H4=38.66 H1=16.34 M15=9.47
 H4 xu hướng: TĂNG
-  H4 CHoCH tăng qua 4,027.50 lúc 27/10 19:00
-  H4 BOS tăng qua 4,067.60 lúc 28/10 23:00
-  H4 CHoCH giảm qua 3,985.10 lúc 30/10 11:00
-  H4 CHoCH tăng qua 3,965.20 lúc 04/11 11:00
-  Swing H4 gần nhất: đỉnh 4,139.30 | đáy 3,887.60 | EQ 4,013.45 | giá ở 60% (>50 premium, <50 discount)
+  H4 CHoCH tăng qua 4,035.20 lúc 27/10 19:00
+  H4 BOS tăng qua 4,075.30 lúc 28/10 23:00
+  H4 CHoCH giảm qua 3,992.80 lúc 30/10 11:00
+  H4 CHoCH tăng qua 3,972.90 lúc 04/11 11:00
+  Swing H4 gần nhất: đỉnh 4,147.00 | đáy 3,895.30 | EQ 4,021.15 | giá ở 65% (>50 premium, <50 discount)
 H1 xu hướng: GIẢM
-  H1 BOS tăng qua 4,064.70 lúc 05/11 07:00
-  H1 CHoCH giảm qua 4,101.50 lúc 05/11 22:00
-  H1 BOS giảm qua 4,069.10 lúc 06/11 08:00
-  H1 CUNG phía trên: 4,303.50 – 4,311.10 (tạo 26/09 03:00)
-  H1 CUNG phía trên: 4,431.00 – 4,453.00 (tạo 10/09 14:00)
-  H1 CẦU phía dưới: 3,920.50 – 3,935.90 (tạo 04/11 10:00)
-  M15 CUNG phía trên: 4,175.30 – 4,180.60 (tạo 19/10 18:15)
-  M15 CẦU phía dưới: 3,939.70 – 3,948.10 (tạo 04/11 12:00)
-Đỉnh/đáy 24h: 4,128.80 / 4,018.60
+  H1 BOS tăng qua 4,072.40 lúc 05/11 07:00
+  H1 CHoCH giảm qua 4,109.20 lúc 05/11 22:00
+  H1 BOS giảm qua 4,076.80 lúc 06/11 08:00
+  H1 CUNG phía trên: 4,311.20 – 4,318.80 (tạo 26/09 03:00)
+  H1 CUNG phía trên: 4,438.70 – 4,460.70 (tạo 10/09 14:00)
+  H1 CẦU phía dưới: 3,928.20 – 3,943.60 (tạo 04/11 10:00)
+  M15 CUNG phía trên: 4,183.00 – 4,188.30 (tạo 19/10 18:15)
+  M15 CẦU phía dưới: 3,947.40 – 3,955.80 (tạo 04/11 12:00)
+Đỉnh/đáy 24h: 4,128.80 / 4,026.30
 ===== EURUSD =====
-Nến cuối: 06/11 21:00 (giờ VN) | Giá: 1.11433
-ATR14: H4=0.00285 H1=0.00110 M15=0.00062
+Nến cuối: 07/11 00:45 (giờ VN) | Giá: 1.11508
+ATR14: H4=0.00281 H1=0.00124 M15=0.00069
 H4 xu hướng: GIẢM
   H4 BOS giảm qua 1.11894 lúc 26/10 19:00
   H4 CHoCH tăng qua 1.11719 lúc 30/10 03:00
   H4 BOS tăng qua 1.12397 lúc 04/11 07:00
   H4 CHoCH giảm qua 1.12171 lúc 06/11 07:00
-  Swing H4 gần nhất: đỉnh 1.12714 | đáy 1.11433 | EQ 1.12074 | giá ở 0% (>50 premium, <50 discount)
+  Swing H4 gần nhất: đỉnh 1.12714 | đáy 1.11359 | EQ 1.12036 | giá ở 11% (>50 premium, <50 discount)
 H1 xu hướng: GIẢM
   H1 CHoCH giảm qua 1.12410 lúc 04/11 22:00
   H1 BOS giảm qua 1.12070 lúc 06/11 10:00
@@ -36,17 +36,16 @@ H1 xu hướng: GIẢM
   H1 CUNG phía trên: 1.14416 – 1.14495 (tạo 23/09 08:00)
   M15 CUNG phía trên: 1.11757 – 1.11794 (tạo 06/11 19:15)
   M15 CUNG phía trên: 1.11995 – 1.12020 (tạo 06/11 13:00)
-  M15 CẦU phía dưới: 1.11247 – 1.11383 (tạo 29/10 20:45)
-Đỉnh/đáy 24h: 1.12461 / 1.11433
+Đỉnh/đáy 24h: 1.12461 / 1.11359
 ===== GBPUSD =====
-Nến cuối: 06/11 21:00 (giờ VN) | Giá: 1.33540
-ATR14: H4=0.00298 H1=0.00132 M15=0.00074
+Nến cuối: 07/11 00:45 (giờ VN) | Giá: 1.33593
+ATR14: H4=0.00296 H1=0.00156 M15=0.00082
 H4 xu hướng: GIẢM
   H4 BOS giảm qua 1.33296 lúc 27/10 11:00
   H4 CHoCH tăng qua 1.33381 lúc 29/10 19:00
   H4 BOS tăng qua 1.34477 lúc 04/11 07:00
   H4 CHoCH giảm qua 1.33969 lúc 06/11 15:00
-  Swing H4 gần nhất: đỉnh 1.35013 | đáy 1.33540 | EQ 1.34276 | giá ở 0% (>50 premium, <50 discount)
+  Swing H4 gần nhất: đỉnh 1.35013 | đáy 1.33440 | EQ 1.34226 | giá ở 10% (>50 premium, <50 discount)
 H1 xu hướng: GIẢM
   H1 CHoCH giảm qua 1.34715 lúc 04/11 23:00
   H1 BOS giảm qua 1.34486 lúc 06/11 05:00
@@ -61,8 +60,6 @@ H1 xu hướng: GIẢM
   M15 CẦU phía dưới: 1.33195 – 1.33246 (tạo 29/10 20:45)
   M15 CẦU phía dưới: 1.32755 – 1.32813 (tạo 28/10 18:00)
   M15 CẦU phía dưới: 1.31921 – 1.31949 (tạo 15/10 05:00)
-Đỉnh/đáy 24h: 1.34860 / 1.33540
+Đỉnh/đáy 24h: 1.34858 / 1.33440
 ===== TIN ĐỎ (USD/EUR/GBP) 48h tới, giờ VN =====
-Fri 06/11 20:30 USD Average Hourly Earnings m/m | dự báo 0.3% | trước 0.1%
-Fri 06/11 20:30 USD Non-Farm Employment Change | dự báo 65K | trước 29K
-Fri 06/11 20:30 USD Unemployment Rate | dự báo 4.2% | trước 4.2%
+Không có tin đỏ USD/EUR/GBP trong 48h tới.
