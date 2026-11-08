@@ -1,23 +1,23 @@
-Dữ liệu lấy lúc (UTC): 2026-11-08T23:05:28.882796+00:00 | lỗi: []
+Dữ liệu lấy lúc (UTC): 2026-11-08T23:15:34.228542+00:00 | lỗi: []
 ===== XAUUSD =====
-Nến cuối: 07/11 04:45 (giờ VN) | Giá: 4,062.90 (đã trừ offset GC-spot 12.0)
-ATR14: H4=38.57 H1=16.46 M15=5.34
+Nến cuối: 09/11 06:00 (giờ VN) | Giá: 4,067.90 (đã trừ offset GC-spot 7.0)
+ATR14: H4=36.26 H1=14.57 M15=4.95
 H4 xu hướng: TĂNG
-  H4 CHoCH tăng qua 4,032.00 lúc 27/10 19:00
-  H4 BOS tăng qua 4,072.10 lúc 28/10 23:00
-  H4 CHoCH giảm qua 3,989.60 lúc 30/10 11:00
-  H4 CHoCH tăng qua 3,969.70 lúc 04/11 11:00
-  Swing H4 gần nhất: đỉnh 4,143.80 | đáy 3,892.10 | EQ 4,017.95 | giá ở 68% (>50 premium, <50 discount)
+  H4 CHoCH tăng qua 4,037.00 lúc 27/10 19:00
+  H4 BOS tăng qua 4,077.10 lúc 28/10 23:00
+  H4 CHoCH giảm qua 3,994.60 lúc 30/10 11:00
+  H4 CHoCH tăng qua 3,974.70 lúc 04/11 11:00
+  Swing H4 gần nhất: đỉnh 4,081.20 | đáy 4,028.10 | EQ 4,054.65 | giá ở 75% (>50 premium, <50 discount)
 H1 xu hướng: GIẢM
-  H1 BOS tăng qua 4,069.20 lúc 05/11 07:00
-  H1 CHoCH giảm qua 4,106.00 lúc 05/11 22:00
-  H1 BOS giảm qua 4,073.60 lúc 06/11 08:00
-  H1 CUNG phía trên: 4,308.00 – 4,315.60 (tạo 26/09 03:00)
-  H1 CUNG phía trên: 4,435.50 – 4,457.50 (tạo 10/09 14:00)
-  H1 CẦU phía dưới: 3,925.00 – 3,940.40 (tạo 04/11 10:00)
-  M15 CUNG phía trên: 4,179.80 – 4,185.10 (tạo 19/10 18:15)
-  M15 CẦU phía dưới: 3,944.20 – 3,952.60 (tạo 04/11 12:00)
-Đỉnh/đáy 24h: 4,104.20 / 4,023.10
+  H1 BOS tăng qua 4,074.20 lúc 05/11 07:00
+  H1 CHoCH giảm qua 4,111.00 lúc 05/11 22:00
+  H1 BOS giảm qua 4,078.60 lúc 06/11 08:00
+  H1 CUNG phía trên: 4,313.00 – 4,320.60 (tạo 26/09 03:00)
+  H1 CUNG phía trên: 4,440.50 – 4,462.50 (tạo 10/09 14:00)
+  H1 CẦU phía dưới: 3,930.00 – 3,945.40 (tạo 04/11 10:00)
+  M15 CUNG phía trên: 4,184.80 – 4,190.10 (tạo 19/10 18:15)
+  M15 CẦU phía dưới: 3,949.20 – 3,957.60 (tạo 04/11 12:00)
+Đỉnh/đáy 24h: 4,109.20 / 4,028.10
 ===== EURUSD =====
 Nến cuối: 07/11 05:15 (giờ VN) | Giá: 1.11433
 ATR14: H4=0.00264 H1=0.00100 M15=0.00024
