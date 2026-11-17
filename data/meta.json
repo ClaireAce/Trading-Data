@@ -1,7 +1,6 @@
 {
-  "fetched_utc": "2026-11-17T21:30:42.450446+00:00",
-  "errors": [],
-  "gold_spot": 3855.800049,
-  "gold_future_last": 3853.10009765625,
-  "gold_offset_future_minus_spot": -2.7
+  "fetched_utc": "2026-11-17T21:45:39.217140+00:00",
+  "errors": [
+    "gold spot: gold-api: <urlopen error [Errno -2] Name or service not known>; stooq: HTTP Error 404: Not Found"
+  ]
 }
