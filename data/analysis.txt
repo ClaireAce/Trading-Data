@@ -1,33 +1,33 @@
-Dữ liệu lấy lúc (UTC): 2026-11-18T21:05:33.195900+00:00 | lỗi: []
+Dữ liệu lấy lúc (UTC): 2026-11-18T21:15:40.259332+00:00 | lỗi: []
 ===== XAUUSD =====
-Nến cuối: 19/11 03:45 (giờ VN) | Giá: 3,728.70 (đã trừ offset GC-spot 2.4)
-ATR14: H4=32.51 H1=20.29 M15=7.49
+Nến cuối: 19/11 04:00 (giờ VN) | Giá: 3,728.10 (đã trừ offset GC-spot 0.8)
+ATR14: H4=32.51 H1=19.57 M15=7.19
 H4 xu hướng: GIẢM
-  H4 CHoCH tăng qua 3,979.30 lúc 04/11 11:00
-  H4 BOS tăng qua 4,140.90 lúc 09/11 23:00
-  H4 CHoCH giảm qua 4,018.40 lúc 11/11 19:00
-  H4 BOS giảm qua 3,832.80 lúc 18/11 07:00
-  Swing H4 gần nhất: đỉnh 3,891.60 | đáy 3,719.40 | EQ 3,805.50 | giá ở 5% (>50 premium, <50 discount)
+  H4 CHoCH tăng qua 3,980.90 lúc 04/11 11:00
+  H4 BOS tăng qua 4,142.50 lúc 09/11 23:00
+  H4 CHoCH giảm qua 4,020.00 lúc 11/11 19:00
+  H4 BOS giảm qua 3,834.40 lúc 18/11 07:00
+  Swing H4 gần nhất: đỉnh 3,893.20 | đáy 3,721.00 | EQ 3,807.10 | giá ở 4% (>50 premium, <50 discount)
 H1 xu hướng: GIẢM
-  H1 BOS giảm qua 3,836.80 lúc 18/11 07:00
-  H1 BOS giảm qua 3,757.10 lúc 18/11 19:00
-  H1 BOS giảm qua 3,742.20 lúc 19/11 00:00
-  H1 CUNG phía trên: 3,763.80 – 3,787.50 (tạo 18/11 21:00)
-  H1 CUNG phía trên: 4,045.90 – 4,052.90 (tạo 11/11 19:00)
-  H1 CUNG phía trên: 4,317.60 – 4,325.20 (tạo 26/09 03:00)
-  M15 CUNG phía trên: 3,736.90 – 3,741.10 (tạo 19/11 01:45)
-  M15 CUNG phía trên: 3,864.90 – 3,868.90 (tạo 18/11 00:30)
-  M15 CUNG phía trên: 3,980.20 – 3,983.70 (tạo 12/11 13:15)
-Đỉnh/đáy 24h: 3,858.10 / 3,719.40
+  H1 BOS giảm qua 3,838.40 lúc 18/11 07:00
+  H1 BOS giảm qua 3,758.70 lúc 18/11 19:00
+  H1 BOS giảm qua 3,743.80 lúc 19/11 00:00
+  H1 CUNG phía trên: 3,765.40 – 3,789.10 (tạo 18/11 21:00)
+  H1 CUNG phía trên: 4,047.50 – 4,054.50 (tạo 11/11 19:00)
+  H1 CUNG phía trên: 4,319.20 – 4,326.80 (tạo 26/09 03:00)
+  M15 CUNG phía trên: 3,738.50 – 3,742.70 (tạo 19/11 01:45)
+  M15 CUNG phía trên: 3,866.50 – 3,870.50 (tạo 18/11 00:30)
+  M15 CUNG phía trên: 3,981.80 – 3,985.30 (tạo 12/11 13:15)
+Đỉnh/đáy 24h: 3,859.70 / 3,721.00
 ===== EURUSD =====
-Nến cuối: 19/11 04:00 (giờ VN) | Giá: 1.09794
+Nến cuối: 19/11 04:00 (giờ VN) | Giá: 1.09782
 ATR14: H4=0.00200 H1=0.00106 M15=0.00039
 H4 xu hướng: GIẢM
   H4 CHoCH giảm qua 1.12171 lúc 06/11 07:00
   H4 BOS giảm qua 1.11495 lúc 11/11 15:00
   H4 BOS giảm qua 1.10485 lúc 13/11 19:00
   H4 BOS giảm qua 1.09721 lúc 18/11 15:00
-  Swing H4 gần nhất: đỉnh 1.10254 | đáy 1.09577 | EQ 1.09915 | giá ở 32% (>50 premium, <50 discount)
+  Swing H4 gần nhất: đỉnh 1.10254 | đáy 1.09577 | EQ 1.09915 | giá ở 30% (>50 premium, <50 discount)
 H1 xu hướng: GIẢM
   H1 BOS giảm qua 1.09878 lúc 17/11 20:00
   H1 CHoCH tăng qua 1.10156 lúc 17/11 23:00
@@ -40,14 +40,14 @@ H1 xu hướng: GIẢM
   M15 CUNG phía trên: 1.10583 – 1.10619 (tạo 13/11 21:45)
 Đỉnh/đáy 24h: 1.10059 / 1.09577
 ===== GBPUSD =====
-Nến cuối: 19/11 04:00 (giờ VN) | Giá: 1.31517
-ATR14: H4=0.00203 H1=0.00137 M15=0.00046
+Nến cuối: 19/11 04:00 (giờ VN) | Giá: 1.31491
+ATR14: H4=0.00203 H1=0.00138 M15=0.00047
 H4 xu hướng: GIẢM
   H4 CHoCH giảm qua 1.33969 lúc 06/11 15:00
   H4 BOS giảm qua 1.33440 lúc 10/11 19:00
   H4 BOS giảm qua 1.33138 lúc 11/11 15:00
   H4 BOS giảm qua 1.31693 lúc 18/11 15:00
-  Swing H4 gần nhất: đỉnh 1.32273 | đáy 1.31375 | EQ 1.31824 | giá ở 16% (>50 premium, <50 discount)
+  Swing H4 gần nhất: đỉnh 1.32273 | đáy 1.31375 | EQ 1.31824 | giá ở 13% (>50 premium, <50 discount)
 H1 xu hướng: GIẢM
   H1 CHoCH tăng qua 1.32046 lúc 17/11 22:00
   H1 CHoCH giảm qua 1.31759 lúc 18/11 14:00
