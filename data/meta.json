@@ -1,7 +1,7 @@
 {
-  "fetched_utc": "2026-11-18T06:30:39.184616+00:00",
+  "fetched_utc": "2026-11-18T06:45:35.177208+00:00",
   "errors": [],
-  "gold_spot": 3780.370117,
-  "gold_future_last": 3779.5,
-  "gold_offset_future_minus_spot": -0.87
+  "gold_spot": 3781.620117,
+  "gold_future_last": 3781.199951171875,
+  "gold_offset_future_minus_spot": -0.42
 }
