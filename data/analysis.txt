@@ -1,33 +1,33 @@
-Dữ liệu lấy lúc (UTC): 2026-11-20T18:59:10.983508+00:00 | lỗi: []
+Dữ liệu lấy lúc (UTC): 2026-11-22T21:05:32.335287+00:00 | lỗi: []
 ===== XAUUSD =====
-Nến cuối: 21/11 01:45 (giờ VN) | Giá: 3,539.20 (đã trừ offset GC-spot -33.3)
-ATR14: H4=50.25 H1=27.98 M15=14.86
+Nến cuối: 21/11 04:45 (giờ VN) | Giá: 3,539.00 (đã trừ offset GC-spot -23.6)
+ATR14: H4=49.69 H1=27.33 M15=17.51
 H4 xu hướng: GIẢM
-  H4 CHoCH tăng qua 4,015.00 lúc 04/11 11:00
-  H4 BOS tăng qua 4,176.60 lúc 09/11 23:00
-  H4 CHoCH giảm qua 4,054.10 lúc 11/11 19:00
-  H4 BOS giảm qua 3,868.50 lúc 18/11 07:00
-  Swing H4 gần nhất: đỉnh 3,927.30 | đáy 3,536.20 | EQ 3,731.75 | giá ở 1% (>50 premium, <50 discount)
+  H4 CHoCH tăng qua 4,005.30 lúc 04/11 11:00
+  H4 BOS tăng qua 4,166.90 lúc 09/11 23:00
+  H4 CHoCH giảm qua 4,044.40 lúc 11/11 19:00
+  H4 BOS giảm qua 3,858.80 lúc 18/11 07:00
+  Swing H4 gần nhất: đỉnh 3,917.60 | đáy 3,526.50 | EQ 3,722.05 | giá ở 3% (>50 premium, <50 discount)
 H1 xu hướng: GIẢM
-  H1 BOS giảm qua 3,755.10 lúc 19/11 09:00
-  H1 BOS giảm qua 3,727.80 lúc 19/11 22:00
-  H1 BOS giảm qua 3,548.20 lúc 21/11 01:00
-  H1 CUNG phía trên: 3,569.20 – 3,592.10 (tạo 20/11 23:00)
-  H1 CUNG phía trên: 3,799.50 – 3,823.20 (tạo 18/11 21:00)
-  H1 CUNG phía trên: 4,081.60 – 4,088.60 (tạo 11/11 19:00)
-  M15 CUNG phía trên: 3,599.40 – 3,620.30 (tạo 20/11 21:45)
-  M15 CUNG phía trên: 3,646.90 – 3,661.30 (tạo 20/11 07:15)
-  M15 CUNG phía trên: 3,708.90 – 3,712.70 (tạo 20/11 02:30)
-Đỉnh/đáy 24h: 3,715.80 / 3,536.20
+  H1 BOS giảm qua 3,768.20 lúc 19/11 00:00
+  H1 BOS giảm qua 3,745.40 lúc 19/11 09:00
+  H1 BOS giảm qua 3,718.10 lúc 19/11 22:00
+  H1 CUNG phía trên: 3,789.80 – 3,813.50 (tạo 18/11 21:00)
+  H1 CUNG phía trên: 4,071.90 – 4,078.90 (tạo 11/11 19:00)
+  H1 CUNG phía trên: 4,343.60 – 4,351.20 (tạo 26/09 03:00)
+  M15 CUNG phía trên: 3,589.70 – 3,610.60 (tạo 20/11 21:45)
+  M15 CUNG phía trên: 3,637.20 – 3,651.60 (tạo 20/11 07:15)
+  M15 CUNG phía trên: 3,699.20 – 3,703.00 (tạo 20/11 02:30)
+Đỉnh/đáy 24h: 3,661.70 / 3,526.50
 ===== EURUSD =====
-Nến cuối: 21/11 01:45 (giờ VN) | Giá: 1.09733
-ATR14: H4=0.00232 H1=0.00129 M15=0.00055
+Nến cuối: 21/11 05:15 (giờ VN) | Giá: 1.09745
+ATR14: H4=0.00221 H1=0.00121 M15=0.00033
 H4 xu hướng: GIẢM
   H4 CHoCH giảm qua 1.12171 lúc 06/11 07:00
   H4 BOS giảm qua 1.11495 lúc 11/11 15:00
   H4 BOS giảm qua 1.10485 lúc 13/11 19:00
   H4 BOS giảm qua 1.09721 lúc 18/11 15:00
-  Swing H4 gần nhất: đỉnh 1.10132 | đáy 1.09577 | EQ 1.09855 | giá ở 28% (>50 premium, <50 discount)
+  Swing H4 gần nhất: đỉnh 1.10132 | đáy 1.09577 | EQ 1.09855 | giá ở 30% (>50 premium, <50 discount)
 H1 xu hướng: TĂNG
   H1 CHoCH tăng qua 1.09818 lúc 19/11 14:00
   H1 CHoCH giảm qua 1.09649 lúc 20/11 17:00
@@ -38,27 +38,26 @@ H1 xu hướng: TĂNG
   M15 CUNG phía trên: 1.10266 – 1.10327 (tạo 16/11 16:00)
   M15 CUNG phía trên: 1.10583 – 1.10619 (tạo 13/11 21:45)
   M15 CUNG phía trên: 1.10963 – 1.11000 (tạo 12/11 21:15)
-  M15 CẦU phía dưới: 1.09625 – 1.09661 (tạo 20/11 19:00)
-Đỉnh/đáy 24h: 1.10023 / 1.09577
+Đỉnh/đáy 24h: 1.10023 / 1.09613
 ===== GBPUSD =====
-Nến cuối: 21/11 01:45 (giờ VN) | Giá: 1.30964
-ATR14: H4=0.00266 H1=0.00130 M15=0.00064
+Nến cuối: 21/11 05:15 (giờ VN) | Giá: 1.30818
+ATR14: H4=0.00261 H1=0.00124 M15=0.00045
 H4 xu hướng: GIẢM
   H4 CHoCH giảm qua 1.33969 lúc 06/11 15:00
   H4 BOS giảm qua 1.33440 lúc 10/11 19:00
   H4 BOS giảm qua 1.33138 lúc 11/11 15:00
   H4 BOS giảm qua 1.31693 lúc 18/11 15:00
-  Swing H4 gần nhất: đỉnh 1.31728 | đáy 1.30808 | EQ 1.31268 | giá ở 17% (>50 premium, <50 discount)
+  Swing H4 gần nhất: đỉnh 1.31728 | đáy 1.30763 | EQ 1.31246 | giá ở 6% (>50 premium, <50 discount)
 H1 xu hướng: GIẢM
-  H1 BOS giảm qua 1.31375 lúc 19/11 09:00
   H1 CHoCH tăng qua 1.31544 lúc 19/11 15:00
   H1 CHoCH giảm qua 1.31215 lúc 19/11 22:00
+  H1 BOS giảm qua 1.30950 lúc 21/11 02:00
+  H1 CUNG phía trên: 1.30981 – 1.31039 (tạo 21/11 00:00)
   H1 CUNG phía trên: 1.31456 – 1.31638 (tạo 19/11 20:00)
   H1 CUNG phía trên: 1.31907 – 1.31987 (tạo 18/11 12:00)
-  H1 CUNG phía trên: 1.34485 – 1.34586 (tạo 10/11 14:00)
   M15 CUNG phía trên: 1.31560 – 1.31638 (tạo 19/11 21:15)
   M15 CUNG phía trên: 1.31964 – 1.31987 (tạo 18/11 12:00)
   M15 CUNG phía trên: 1.32041 – 1.32065 (tạo 18/11 09:30)
-Đỉnh/đáy 24h: 1.31280 / 1.30808
+Đỉnh/đáy 24h: 1.31280 / 1.30763
 ===== TIN ĐỎ (USD/EUR/GBP) 48h tới, giờ VN =====
 Không có tin đỏ USD/EUR/GBP trong 48h tới.
