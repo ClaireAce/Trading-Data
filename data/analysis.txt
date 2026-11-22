@@ -1,25 +1,25 @@
-Dữ liệu lấy lúc (UTC): 2026-11-22T23:30:41.082767+00:00 | lỗi: []
+Dữ liệu lấy lúc (UTC): 2026-11-22T23:45:34.401582+00:00 | lỗi: []
 ===== XAUUSD =====
-Nến cuối: 23/11 06:15 (giờ VN) | Giá: 3,570.30 (đã trừ offset GC-spot 10.5)
-ATR14: H4=51.99 H1=30.58 M15=18.51
+Nến cuối: 23/11 06:30 (giờ VN) | Giá: 3,604.85 (đã trừ offset GC-spot -21.75)
+ATR14: H4=52.28 H1=30.86 M15=18.65
 H4 xu hướng: GIẢM
-  H4 CHoCH tăng qua 3,971.20 lúc 04/11 11:00
-  H4 BOS tăng qua 4,132.80 lúc 09/11 23:00
-  H4 CHoCH giảm qua 4,010.30 lúc 11/11 19:00
-  H4 BOS giảm qua 3,824.70 lúc 18/11 07:00
-  Swing H4 gần nhất: đỉnh 3,883.50 | đáy 3,492.40 | EQ 3,687.95 | giá ở 20% (>50 premium, <50 discount)
+  H4 CHoCH tăng qua 4,003.45 lúc 04/11 11:00
+  H4 BOS tăng qua 4,165.05 lúc 09/11 23:00
+  H4 CHoCH giảm qua 4,042.55 lúc 11/11 19:00
+  H4 BOS giảm qua 3,856.95 lúc 18/11 07:00
+  Swing H4 gần nhất: đỉnh 3,915.75 | đáy 3,524.65 | EQ 3,720.20 | giá ở 21% (>50 premium, <50 discount)
 H1 xu hướng: GIẢM
-  H1 BOS giảm qua 3,734.10 lúc 19/11 00:00
-  H1 BOS giảm qua 3,711.30 lúc 19/11 09:00
-  H1 BOS giảm qua 3,684.00 lúc 19/11 22:00
-  H1 CUNG phía trên: 3,755.70 – 3,779.40 (tạo 18/11 21:00)
-  H1 CUNG phía trên: 4,037.80 – 4,044.80 (tạo 11/11 19:00)
-  H1 CUNG phía trên: 4,309.50 – 4,317.10 (tạo 26/09 03:00)
-  M15 CUNG phía trên: 3,603.10 – 3,617.50 (tạo 20/11 07:15)
-  M15 CUNG phía trên: 3,665.10 – 3,668.90 (tạo 20/11 02:30)
-  M15 CUNG phía trên: 3,856.80 – 3,860.80 (tạo 18/11 00:30)
-  M15 CẦU phía dưới: 3,504.90 – 3,518.10 (tạo 21/11 04:30)
-Đỉnh/đáy 24h: 3,627.60 / 3,492.40
+  H1 BOS giảm qua 3,766.35 lúc 19/11 00:00
+  H1 BOS giảm qua 3,743.55 lúc 19/11 09:00
+  H1 BOS giảm qua 3,716.25 lúc 19/11 22:00
+  H1 CUNG phía trên: 3,787.95 – 3,811.65 (tạo 18/11 21:00)
+  H1 CUNG phía trên: 4,070.05 – 4,077.05 (tạo 11/11 19:00)
+  H1 CUNG phía trên: 4,341.75 – 4,349.35 (tạo 26/09 03:00)
+  M15 CUNG phía trên: 3,635.35 – 3,649.75 (tạo 20/11 07:15)
+  M15 CUNG phía trên: 3,697.35 – 3,701.15 (tạo 20/11 02:30)
+  M15 CUNG phía trên: 3,889.05 – 3,893.05 (tạo 18/11 00:30)
+  M15 CẦU phía dưới: 3,537.15 – 3,550.35 (tạo 21/11 04:30)
+Đỉnh/đáy 24h: 3,659.85 / 3,524.65
 ===== EURUSD =====
 Nến cuối: 21/11 05:15 (giờ VN) | Giá: 1.09745
 ATR14: H4=0.00221 H1=0.00121 M15=0.00033
