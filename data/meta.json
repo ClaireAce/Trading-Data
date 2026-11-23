@@ -1,7 +1,6 @@
 {
-  "fetched_utc": "2026-11-23T22:28:45.069456+00:00",
-  "errors": [],
-  "gold_spot": 3634.399902,
-  "gold_future_last": 3634.39990234375,
-  "gold_offset_future_minus_spot": 0.0
+  "fetched_utc": "2026-11-23T23:05:37.336192+00:00",
+  "errors": [
+    "gold spot: gold-api: Remote end closed connection without response; stooq: HTTP Error 404: Not Found"
+  ]
 }
