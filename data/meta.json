@@ -1,5 +1,5 @@
 {
-  "fetched_utc": "2026-11-24T05:18:06.111158+00:00",
+  "fetched_utc": "2026-11-24T06:05:28.490084+00:00",
   "errors": [
     "gold spot: gold-api: Remote end closed connection without response; stooq: HTTP Error 404: Not Found"
   ]
