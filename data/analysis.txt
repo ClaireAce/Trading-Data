@@ -1,13 +1,13 @@
-Dữ liệu lấy lúc (UTC): 2026-11-24T11:15:36.490283+00:00 | lỗi: ['gold spot: gold-api: Remote end closed connection without response; stooq: HTTP Error 404: Not Found']
+Dữ liệu lấy lúc (UTC): 2026-11-24T11:30:40.149625+00:00 | lỗi: ['gold spot: gold-api: <urlopen error [Errno -2] Name or service not known>; stooq: HTTP Error 404: Not Found']
 ===== XAUUSD =====
-Nến cuối: 24/11 18:00 (giờ VN) | Giá: 3,626.10
-ATR14: H4=44.79 H1=17.46 M15=8.77
+Nến cuối: 24/11 18:15 (giờ VN) | Giá: 3,625.20
+ATR14: H4=44.79 H1=17.62 M15=8.84
 H4 xu hướng: GIẢM
   H4 CHoCH tăng qua 3,981.70 lúc 04/11 11:00
   H4 BOS tăng qua 4,143.30 lúc 09/11 23:00
   H4 CHoCH giảm qua 4,020.80 lúc 11/11 19:00
   H4 BOS giảm qua 3,835.20 lúc 18/11 07:00
-  Swing H4 gần nhất: đỉnh 3,691.00 | đáy 3,606.40 | EQ 3,648.70 | giá ở 23% (>50 premium, <50 discount)
+  Swing H4 gần nhất: đỉnh 3,691.00 | đáy 3,606.40 | EQ 3,648.70 | giá ở 22% (>50 premium, <50 discount)
 H1 xu hướng: GIẢM
   H1 CHoCH tăng qua 3,587.00 lúc 23/11 08:00
   H1 BOS tăng qua 3,636.40 lúc 23/11 20:00
@@ -22,8 +22,8 @@ H1 xu hướng: GIẢM
   M15 CẦU phía dưới: 3,515.40 – 3,528.60 (tạo 21/11 04:30)
 Đỉnh/đáy 24h: 3,691.00 / 3,606.40
 ===== EURUSD =====
-Nến cuối: 24/11 18:00 (giờ VN) | Giá: 1.09505
-ATR14: H4=0.00271 H1=0.00093 M15=0.00066
+Nến cuối: 24/11 18:15 (giờ VN) | Giá: 1.09505
+ATR14: H4=0.00272 H1=0.00095 M15=0.00067
 H4 xu hướng: GIẢM
   H4 BOS giảm qua 1.11495 lúc 11/11 15:00
   H4 BOS giảm qua 1.10485 lúc 13/11 19:00
@@ -43,14 +43,14 @@ H1 xu hướng: TĂNG
   M15 CUNG phía trên: 1.10583 – 1.10619 (tạo 13/11 21:45)
 Đỉnh/đáy 24h: 1.09673 / 1.08849
 ===== GBPUSD =====
-Nến cuối: 24/11 18:00 (giờ VN) | Giá: 1.30728
-ATR14: H4=0.00296 H1=0.00102 M15=0.00070
+Nến cuối: 24/11 18:15 (giờ VN) | Giá: 1.30781
+ATR14: H4=0.00300 H1=0.00106 M15=0.00073
 H4 xu hướng: GIẢM
   H4 BOS giảm qua 1.33440 lúc 10/11 19:00
   H4 BOS giảm qua 1.33138 lúc 11/11 15:00
   H4 BOS giảm qua 1.31693 lúc 18/11 15:00
   H4 BOS giảm qua 1.30763 lúc 23/11 19:00
-  Swing H4 gần nhất: đỉnh 1.31442 | đáy 1.30115 | EQ 1.30779 | giá ở 46% (>50 premium, <50 discount)
+  Swing H4 gần nhất: đỉnh 1.31442 | đáy 1.30115 | EQ 1.30779 | giá ở 50% (>50 premium, <50 discount)
 H1 xu hướng: TĂNG
   H1 CHoCH tăng qua 1.31280 lúc 23/11 15:00
   H1 CHoCH giảm qua 1.31053 lúc 23/11 18:00
