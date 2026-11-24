@@ -1,13 +1,13 @@
-Dữ liệu lấy lúc (UTC): 2026-11-24T21:05:33.557460+00:00 | lỗi: ['gold spot: gold-api: Remote end closed connection without response; stooq: HTTP Error 404: Not Found']
+Dữ liệu lấy lúc (UTC): 2026-11-24T21:15:42.961733+00:00 | lỗi: ['gold spot: gold-api: Remote end closed connection without response; stooq: HTTP Error 404: Not Found']
 ===== XAUUSD =====
-Nến cuối: 25/11 03:45 (giờ VN) | Giá: 3,551.90
-ATR14: H4=43.71 H1=19.58 M15=7.26
+Nến cuối: 25/11 04:00 (giờ VN) | Giá: 3,549.30
+ATR14: H4=43.71 H1=19.11 M15=7.04
 H4 xu hướng: GIẢM
   H4 CHoCH tăng qua 3,981.70 lúc 04/11 11:00
   H4 BOS tăng qua 4,143.30 lúc 09/11 23:00
   H4 CHoCH giảm qua 4,020.80 lúc 11/11 19:00
   H4 BOS giảm qua 3,835.20 lúc 18/11 07:00
-  Swing H4 gần nhất: đỉnh 3,691.00 | đáy 3,545.40 | EQ 3,618.20 | giá ở 4% (>50 premium, <50 discount)
+  Swing H4 gần nhất: đỉnh 3,691.00 | đáy 3,545.40 | EQ 3,618.20 | giá ở 3% (>50 premium, <50 discount)
 H1 xu hướng: GIẢM
   H1 BOS tăng qua 3,636.40 lúc 23/11 20:00
   H1 CHoCH giảm qua 3,618.50 lúc 24/11 15:00
@@ -22,14 +22,14 @@ H1 xu hướng: GIẢM
   M15 CẦU phía dưới: 3,515.40 – 3,528.60 (tạo 21/11 04:30)
 Đỉnh/đáy 24h: 3,676.70 / 3,545.40
 ===== EURUSD =====
-Nến cuối: 25/11 04:00 (giờ VN) | Giá: 1.09673
+Nến cuối: 25/11 04:00 (giờ VN) | Giá: 1.09685
 ATR14: H4=0.00251 H1=0.00112 M15=0.00028
 H4 xu hướng: GIẢM
   H4 BOS giảm qua 1.11495 lúc 11/11 15:00
   H4 BOS giảm qua 1.10485 lúc 13/11 19:00
   H4 BOS giảm qua 1.09721 lúc 18/11 15:00
   H4 BOS giảm qua 1.09577 lúc 23/11 19:00
-  Swing H4 gần nhất: đỉnh 1.10084 | đáy 1.08849 | EQ 1.09467 | giá ở 67% (>50 premium, <50 discount)
+  Swing H4 gần nhất: đỉnh 1.10084 | đáy 1.08849 | EQ 1.09467 | giá ở 68% (>50 premium, <50 discount)
 H1 xu hướng: TĂNG
   H1 CHoCH tăng qua 1.09926 lúc 20/11 20:00
   H1 CHoCH giảm qua 1.09818 lúc 23/11 16:00
@@ -43,7 +43,7 @@ H1 xu hướng: TĂNG
   M15 CUNG phía trên: 1.10583 – 1.10619 (tạo 13/11 21:45)
 Đỉnh/đáy 24h: 1.09830 / 1.08980
 ===== GBPUSD =====
-Nến cuối: 25/11 04:00 (giờ VN) | Giá: 1.31132
+Nến cuối: 25/11 04:00 (giờ VN) | Giá: 1.31135
 ATR14: H4=0.00299 H1=0.00127 M15=0.00036
 H4 xu hướng: GIẢM
   H4 BOS giảm qua 1.33440 lúc 10/11 19:00
