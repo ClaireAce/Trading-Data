@@ -1,4 +1,4 @@
-Dữ liệu lấy lúc (UTC): 2026-11-27T11:05:29.198468+00:00 | lỗi: []
+Dữ liệu lấy lúc (UTC): 2026-11-27T11:15:34.531627+00:00 | lỗi: []
 ===== XAUUSD =====
 Nến cuối: 26/11 11:45 (giờ VN) | Giá: 3,674.50 (đã trừ offset GC-spot -54.1)
 ATR14: H4=52.24 H1=33.05 M15=13.12
@@ -22,14 +22,14 @@ H1 xu hướng: TĂNG
   M15 CẦU phía dưới: 3,635.70 – 3,651.90 (tạo 26/11 08:45)
 Đỉnh/đáy 24h: 3,688.80 / 3,507.90
 ===== EURUSD =====
-Nến cuối: 27/11 18:00 (giờ VN) | Giá: 1.09685
+Nến cuối: 27/11 18:00 (giờ VN) | Giá: 1.09661
 ATR14: H4=0.00180 H1=0.00089 M15=0.00053
 H4 xu hướng: GIẢM
   H4 BOS giảm qua 1.11495 lúc 11/11 15:00
   H4 BOS giảm qua 1.10485 lúc 13/11 19:00
   H4 BOS giảm qua 1.09721 lúc 18/11 15:00
   H4 BOS giảm qua 1.09577 lúc 23/11 19:00
-  Swing H4 gần nhất: đỉnh 1.09914 | đáy 1.09589 | EQ 1.09752 | giá ở 30% (>50 premium, <50 discount)
+  Swing H4 gần nhất: đỉnh 1.09914 | đáy 1.09589 | EQ 1.09752 | giá ở 22% (>50 premium, <50 discount)
 H1 xu hướng: TĂNG
   H1 BOS tăng qua 1.09842 lúc 26/11 20:00
   H1 CHoCH giảm qua 1.09721 lúc 27/11 07:00
@@ -43,14 +43,14 @@ H1 xu hướng: TĂNG
   M15 CUNG phía trên: 1.10963 – 1.11000 (tạo 12/11 21:15)
 Đỉnh/đáy 24h: 1.09914 / 1.09589
 ===== GBPUSD =====
-Nến cuối: 27/11 18:00 (giờ VN) | Giá: 1.31328
-ATR14: H4=0.00244 H1=0.00106 M15=0.00055
+Nến cuối: 27/11 18:00 (giờ VN) | Giá: 1.31335
+ATR14: H4=0.00245 H1=0.00108 M15=0.00056
 H4 xu hướng: TĂNG
   H4 BOS giảm qua 1.33138 lúc 11/11 15:00
   H4 BOS giảm qua 1.31693 lúc 18/11 15:00
   H4 BOS giảm qua 1.30763 lúc 23/11 19:00
   H4 CHoCH tăng qua 1.31297 lúc 27/11 15:00
-  Swing H4 gần nhất: đỉnh 1.31328 | đáy 1.30964 | EQ 1.31146 | giá ở 100% (>50 premium, <50 discount)
+  Swing H4 gần nhất: đỉnh 1.31346 | đáy 1.30964 | EQ 1.31155 | giá ở 97% (>50 premium, <50 discount)
 H1 xu hướng: TĂNG
   H1 BOS tăng qua 1.31185 lúc 26/11 20:00
   H1 BOS tăng qua 1.31234 lúc 27/11 09:00
@@ -65,6 +65,6 @@ H1 xu hướng: TĂNG
   M15 CẦU phía dưới: 1.31015 – 1.31038 (tạo 27/11 08:15)
   M15 CẦU phía dưới: 1.30577 – 1.30649 (tạo 25/11 23:00)
   M15 CẦU phía dưới: 1.30181 – 1.30225 (tạo 24/11 01:15)
-Đỉnh/đáy 24h: 1.31328 / 1.30941
+Đỉnh/đáy 24h: 1.31346 / 1.30941
 ===== TIN ĐỎ (USD/EUR/GBP) 48h tới, giờ VN =====
 Không có tin đỏ USD/EUR/GBP trong 48h tới.
